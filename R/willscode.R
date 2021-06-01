@@ -23,3 +23,5 @@ hist(x + y)
 
 
 # happy
+
+hist(x - y)
