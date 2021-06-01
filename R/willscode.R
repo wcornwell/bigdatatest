@@ -5,3 +5,5 @@ plot(x,y)
 # Shinichi's adding
 hist(x)
 hist(y)
+
+hist(x + y)
